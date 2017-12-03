@@ -1,1 +1,1 @@
-# PHP-OO
+# CLASSE CONEXÃO
